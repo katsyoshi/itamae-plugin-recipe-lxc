@@ -1,7 +1,7 @@
 module Itamae
   module Plugin
     module Recipe
-      module Lxc
+      module LXC
         VERSION = "0.1.0"
       end
     end
