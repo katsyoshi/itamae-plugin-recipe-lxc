@@ -8,6 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Itamae::Plugin::Recipe::LXC::VERSION
   spec.authors       = ["MATSUMOTO, Katsuyoshi"]
   spec.email         = ["github@katsyoshi.org"]
+  spec.required_ruby_version = ">= 2.3.0"
 
   spec.summary       = %q{Write a short summary, because Rubygems requires one.}
   spec.description   = %q{Write a longer description or delete this line.}
